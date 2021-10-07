@@ -22,3 +22,8 @@ flutter_spinkit: ^5.1.0
 
 http: ^0.13.3
 
+### Screenshots
+
+![alt text](https://github.com/ArtemAlt/udemy_weather_app/blob/master/screenshots/img.png)
+
+![alt text](https://github.com/ArtemAlt/udemy_weather_app/blob/master/screenshots/img_1.png)
